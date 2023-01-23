@@ -481,7 +481,7 @@ export const links = [
   },
 
   {
-    title: 'Pages',
+    title: 'Páginas',
     links: [
       {
         name: 'orders',
@@ -519,7 +519,7 @@ export const links = [
     ],
   },
   {
-    title: 'Charts',
+    title: 'Gráficos',
     links: [
       {
         name: 'line',
@@ -532,26 +532,6 @@ export const links = [
 
       {
         name: 'bar',
-        icon: <AiOutlineBarChart />,
-      },
-      {
-        name: 'pie',
-        icon: <FiPieChart />,
-      },
-      {
-        name: 'financial',
-        icon: <RiStockLine />,
-      },
-      {
-        name: 'color-mapping',
-        icon: <BsBarChart />,
-      },
-      {
-        name: 'pyramid',
-        icon: <GiLouvrePyramid />,
-      },
-      {
-        name: 'stacked',
         icon: <AiOutlineBarChart />,
       },
     ],
