@@ -21,5 +21,7 @@
 ---
 
 ### Aqui vai uma imagem da homepage do projeto:
+![image](https://user-images.githubusercontent.com/104575967/214068953-1f912206-415c-4b3a-9668-9e97170a14a9.png)
+
 
 ### Aqui o link caso queira dar uma olhada mais afundo: https://professional-dashboard-app.netlify.app/
